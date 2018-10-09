@@ -3,7 +3,7 @@
 
 ---
 ### MarqueeDecorator
-+++?code=src/Marquee/MarqueeBase.js&lang=javascript
++++?code=src/Marquee/MarqueeDecorator.js&lang=javascript
 
 @[271-285]
 @[294-301]
